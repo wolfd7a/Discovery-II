@@ -17,7 +17,7 @@ def pentagone(s) :
     print(pentagone)
 #V0.2 define pentagone perimeter calculus
 def hexagone(s) :
-    hexagone = s*5
+    hexagone = s*6
     print(hexagone)
 #V0.2 define hexagone perimeter calculus
 
